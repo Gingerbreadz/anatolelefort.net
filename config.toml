@@ -1,3 +1,7 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://anatolelefort.net'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Anatole Lefort"
+theme = 'motherfuckingwebsite'
+[params]
+  author = 'Anatole Lefort'
+  dateform = 'Jan 02, 2006'
