@@ -1,0 +1,3 @@
+[submodule "themes/motherfuckingwebsite"]
+	path = themes/motherfuckingwebsite
+	url = git@github.com:Gingerbreadz/hugo-theme-motherfuckingwebsite.git
