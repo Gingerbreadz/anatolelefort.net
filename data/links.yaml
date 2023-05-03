@@ -1,52 +1,52 @@
 - personal:
   - cv:
     linkText: "CV"
-    icon: ""
+    icon: "fa-solid fa-file-pdf"
     link: "cv.pdf"
 
   - email:
     linkText: "e-Mail"
-    icon: ""
+    icon: "fa-solid fa-at"
     link: "mailto:first_last@telecom-sudparis.eu"
 
 #  - pgp:
 #    linkText: "OpenPGP"
-#    icon: ""
+#    icon: "fa-solid fa-user-secret"
 #    link: "/"
 
 - social:
   - linkedin:
     linkText: "LinkedIn"
-    icon: ""
+    icon: "fa-brands fa-linkedin"
     link: "https://www.linkedin.com/in/anatole-lefort-7b506610b/"
 
   - twitter:
     linkText: "Twitter"
-    icon: ""
+    icon: "fa-brands fa-twitter"
     link: "https://twitter.com/anatolelefort"
 
   - github:
     linkText: "GitHub"
-    icon: ""
+    icon: "fa-brands fa-github"
     link: "https://github.com/gingerbreadz"
 
   - strava:
     linkText: "Strava"
-    icon: ""
+    icon: "fa-brands fa-strava"
     link: "https://www.strava.com/athletes/52091505"
 
 - research:
   - entry: 'dblp'
     linkText: "Dblp"
-    icon: ""
+    icon: "ai ai-dblp"
     link: "https://dblp.org/pid/239/4952.html"
 
   - entry: 'gscholar'
     linkText: "G. Scholar"
-    icon: ""
+    icon: "ai ai-google-scholar"
     link: "https://scholar.google.com/citations?user=lXtqvU0AAAAJ&hl=en"
 
   - entry: 'orcid'
     linkText: "Orcid"
-    icon: ""
+    icon: "ai ai-orcid"
     link: "https://orcid.org/0009-0009-8461-1274"
