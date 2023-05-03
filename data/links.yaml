@@ -1,0 +1,52 @@
+- personal:
+  - cv:
+    linkText: "CV"
+    icon: ""
+    link: "cv.pdf"
+
+  - email:
+    linkText: "e-Mail"
+    icon: ""
+    link: "mailto:first_last@telecom-sudparis.eu"
+
+#  - pgp:
+#    linkText: "OpenPGP"
+#    icon: ""
+#    link: "/"
+
+- social:
+  - linkedin:
+    linkText: "LinkedIn"
+    icon: ""
+    link: "https://www.linkedin.com/in/anatole-lefort-7b506610b/"
+
+  - twitter:
+    linkText: "Twitter"
+    icon: ""
+    link: "https://twitter.com/anatolelefort"
+
+  - github:
+    linkText: "GitHub"
+    icon: ""
+    link: "https://github.com/gingerbreadz"
+
+  - strava:
+    linkText: "Strava"
+    icon: ""
+    link: "https://www.strava.com/athletes/52091505"
+
+- research:
+  - entry: 'dblp'
+    linkText: "Dblp"
+    icon: ""
+    link: "https://dblp.org/pid/239/4952.html"
+
+  - entry: 'gscholar'
+    linkText: "G. Scholar"
+    icon: ""
+    link: "https://scholar.google.com/citations?user=lXtqvU0AAAAJ&hl=en"
+
+  - entry: 'orcid'
+    linkText: "Orcid"
+    icon: ""
+    link: "https://orcid.org/0009-0009-8461-1274"
