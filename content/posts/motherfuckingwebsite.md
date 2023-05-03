@@ -3,6 +3,7 @@ title: "Episode 0"
 date: 2023-04-28T12:15:54+02:00
 description: "I did not write this, see bettermotherfuckingwebsite.com"
 draft: false
+toc: false
 ---
 
 # This is *still* a motherfucking website.

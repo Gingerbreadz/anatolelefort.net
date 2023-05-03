@@ -5,6 +5,8 @@ interests: "Systems, Distributed Computing, Persistent Memory, Cloud Infrastruct
 note: "I'm definitely not a web person/artist. This website was built with minimal efforts, using [Hugo](https://gohugo.io/)  and the [motherfuckingwebsite](https://github.com/gingerbreadz/hugo-theme-motherfuckingwebsite) theme."
 footer: "Cheers, you just reached the bottom of the page! Hope you enjoyed your read!"
 last_update: "May 1, 2023."
+toc: false
+toc_inline: false
 ---
 
 ## Bio
