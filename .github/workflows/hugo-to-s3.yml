@@ -1,0 +1,25 @@
+name: Deploy Hugo site to S3
+on:
+  push:
+    branches: [ "root" ]
+jobs:
+  build_and_deploy:
+    name: Deploy Hugo Website
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        submodules: true
+        fetch-depth: 0
+    - name: setup hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.111.3'
+        extended: true
+    - name: build site
+      run: hugo --minify
+    - name: deploy to s3
+      run: hugo deploy --force --maxDeletes -1
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.SCW_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.SCW_SECRET_ACCESS_KEY }}
