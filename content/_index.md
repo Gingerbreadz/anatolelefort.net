@@ -110,7 +110,8 @@ Sponsored & Issued by l'[*Usine Nouvelle*](https://www.usinenouvelle.com/)
 - **Best student publication in ICTs at Institut Polytechnique de Paris**, Sep. 2022.  
 Sponsored & Issued by [*Labex Digicosme*](https://digicosme.cnrs.fr/en/),
 [*Institut Polytechnique de Paris*](https://www.ip-paris.fr/en),
-and [*Université Paris Saclay*](https://www.universite-paris-saclay.fr/en)
+and [*Université Paris Saclay*](https://www.universite-paris-saclay.fr/en)  
+[[Slides]](/papers/sticsaclay23-jnvm-slides.pdf)
 
 ## Grants
 
