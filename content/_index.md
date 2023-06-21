@@ -1,7 +1,7 @@
 ---
 title: "Hi There, I'm Anatole"
 news: "I am actively **looking for a post-doc** in the broad area of **(distributed) systems**. Should you have matching interests, please, **drop me an e-mail**."
-interests: "Systems, Distributed Computing, Persistent Memory, Cloud Infrastructures."
+interests: "Distributed Systems, Distributed Computing, Persistent Memory, Concurrency, Language Runtimes, Cloud Infrastructures."
 note: "I'm definitely not a web person/artist. This website was built with minimal efforts, using [Hugo](https://gohugo.io/)  and the [motherfuckingwebsite](https://github.com/gingerbreadz/hugo-theme-motherfuckingwebsite) theme."
 footer: "Cheers, you just reached the bottom of the page! Hope you enjoyed your read!"
 last_update: "May 1, 2023."

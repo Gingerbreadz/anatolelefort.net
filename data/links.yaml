@@ -30,10 +30,10 @@
     icon: "fa-brands fa-github"
     link: "https://github.com/gingerbreadz"
 
-  - strava:
-    linkText: "Strava"
-    icon: "fa-brands fa-strava"
-    link: "https://www.strava.com/athletes/52091505"
+#  - strava:
+#    linkText: "Strava"
+#    icon: "fa-brands fa-strava"
+#    link: "https://www.strava.com/athletes/52091505"
 
 - research:
   - entry: 'dblp'
